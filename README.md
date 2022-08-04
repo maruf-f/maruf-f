@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @maruf-f
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-maruf-f/maruf-f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Maruf Ahmad.
+- I'm a beginner programmer, still in the learning process.
+- I’m interested in object oriented programming.
+- I’m currently learning C++.
+- I have learned C programming language, and have a moderate experience with the language.
+- My mail - marufnrb@gmail.com OR you can DM me on Instagram - https://www.instagram.com/maruf_fak_ir/
